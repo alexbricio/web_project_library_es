@@ -52,16 +52,16 @@
 
 .header__title {
   max-width: 635px;
-  font-size: 60px;
-  line-height: 72px;
+  font-size: 62px;
+  line-height: 76px;
   font-weight: 500;
   margin: 0 0 32px;
 }
 
 .header__description {
   max-width: 515px;
-  font-size: 18px;
-  line-height: 28px;
+  font-size: 20px;
+  line-height: 30px;
   margin: 0;
 }
 
@@ -93,7 +93,7 @@
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
-  padding: 100px 0 180px;
+  padding: 100px 0 160px;
 }
 
 .staff__cards {
@@ -109,20 +109,20 @@
 
 .staff__title {
   text-align: center;
-  font-size: 32px;
-  line-height: 40px;
+  font-size: 36px;
+  line-height: 44px;
   font-weight: 500;
   color: #ffffff;
-  margin: 0 auto 16px;
+  margin: 0 auto 8px;
   max-width: 760px;
 }
 
 .staff__subtitle {
   text-align: center;
-  font-size: 16px;
-  line-height: 24px;
+  font-size: 18px;
+  line-height: 26px;
   color: #ffffff;
-  margin: 0 auto 64px;
+  margin: 0 auto 48px;
   max-width: 760px;
 }
 
@@ -131,8 +131,7 @@
   min-height: 420px;
   background: #ffffff;
   border-radius: 8px;
-  padding: 32px;
-  height: 100%;
+  padding: 40px;
   display: flex;
   flex-direction: column;
   box-sizing: border-box;
@@ -146,20 +145,20 @@
 }
 
 .card__title {
-  font-size: 18px;
-  line-height: 26px;
-  margin: 0 0 12px;
+  font-size: 20px;
+  line-height: 28px;
+  margin: 0 0 16px;
 }
 
 .card__text {
-  font-size: 14px;
-  line-height: 22px;
-  margin: 0 0 16px;
+  font-size: 16px;
+  line-height: 24px;
+  margin: 0 0 24px;
 }
 
 .card__footer {
   margin-top: auto;
   font-size: 14px;
-  color: #a0a0a0;
+  color: #8e8e8e;
   line-height: 20px;
 }
