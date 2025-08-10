@@ -384,7 +384,7 @@ margin: 0 0 20px;
 .footer__column-link {
   color: white;
   text-decoration: none;
-  display: inline-flex;
+  display: flex;
   align-items: center;
   gap: 10px;
 }
@@ -395,7 +395,7 @@ margin: 0 0 20px;
 }
 
 .footer__copyright {
-  margin: 60px 0 0;
+  margin-top: 60px;
   text-align: left;
   font-size: 14px;
 }
